@@ -27,7 +27,7 @@ function getParticipants(handshakes){
 }
 ```
 ## Experience
-Git first project - [Authoritization](https://github.com/Iceyuu/project "")
+Git first project - [Authoritization](https://github.com/Iceyuu/project)
 
 ## Education
 I am currently studying in the 9th grade.
