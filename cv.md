@@ -2,12 +2,14 @@
 ## Name and Surname
 Sophie Kutovy
    
+![My picture](https://raw.githubusercontent.com/Iceyuu/rsschool-cv/gh-pages/Frame%201.jpg)
+   
 ## Contacts
 E-mail: <winterkutovy@gmail.com>  
 Discord: icey#1727
    
 ## About Me
-I'm a young and ambitious who wants to dive head-first into the world of programming. For the time being, I don't have any work experience, but I have a strong will to study and improve everyday. My strengths are determination, hardworking, inquisitiveness. My goal is to prove to myself that I can reach - in this sphere. Despite my young age, I am ready to compete and win.
+I'm a young and driven girl who wants to jump into the world of programming headfirst. For the time being, I lack work experience, but I am driven to learn and grow every day. I am determined, hardworking, and curious. My goal is to show myself that I can master this field someday. Despite my youth, I am prepared to compete and win.
     
 ## Skills
 Programming languages: JS, HTML, CSS;  
